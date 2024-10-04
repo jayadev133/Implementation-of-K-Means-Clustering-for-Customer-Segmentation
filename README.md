@@ -8,18 +8,19 @@ To write a program to implement the K Means Clustering for Customer Segmentation
 2. Anaconda – Python 3.7 Installation / Jupyter notebook
 
 ## Algorithm
-#### Step 1: Start 
-#### Step 2: Load and explore customer data.
-#### Step 3: Use the Elbow Method to find the best number of clusters.
-#### Step 4: Perform clustering on customer data.
-#### Step 5: Plot clustered data to visualize customer segments.
-#### Step 6: End
-## Program:
+Step 1: Start 
+Step 2: Load and explore customer data.
+Step 3: Use the Elbow Method to find the best number of clusters.
+Step 4: Perform clustering on customer data.
+Step 5: Plot clustered data to visualize customer segments.
+Step 6: End
+
+### Program:
 ```
 /*
 Program to implement the K Means Clustering for Customer Segmentation.
-Developed by: Pranavesh Saikumar
-RegisterNumber: 212223040149
+Developed by: JAYADEV PALLINTI
+RegisterNumber: 212223240058
 */
 ```
 ```
